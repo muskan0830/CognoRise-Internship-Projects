@@ -7,6 +7,7 @@ This is the repository for my Data Analyst internship at CognoRise InfoTech. Thi
 Nutritional Content Analysis in Cereal Dataset
 
 1. Utilized Python libraries (pandas, matplotlib, seaborn) to analyze nutritional content in a cereal dataset.
+
 2. Extracted key insights and communicated findings through effective data visualization.
 
 ## Project 2: BigMart Sales
@@ -32,6 +33,7 @@ Salary Insights Dashboard
 Unemployment Trends in India Power BI Dashboard
 
 1. Designed and implemented an interactive Power BI dashboard.
+
 2. Transformed raw employment data into visually engaging and informative visualizations.
 
 Tools Used
