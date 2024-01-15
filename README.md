@@ -39,5 +39,7 @@ Unemployment Trends in India Power BI Dashboard
 Tools Used:
 
 Python: pandas, matplotlib, seaborn
+
 SQL: Data manipulation, CASE statements, aggregations, window functions, CTEs
+
 Power BI: Dashboard, slicers, multiple cards, charts
