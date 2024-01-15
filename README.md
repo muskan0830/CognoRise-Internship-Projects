@@ -36,7 +36,8 @@ Unemployment Trends in India Power BI Dashboard
 
 2. Transformed raw employment data into visually engaging and informative visualizations.
 
-Tools Used
+Tools Used:
+
 Python: pandas, matplotlib, seaborn
 SQL: Data manipulation, CASE statements, aggregations, window functions, CTEs
 Power BI: Dashboard, slicers, multiple cards, charts
